@@ -115,20 +115,20 @@ a:link, a:visited {
   border-radius: 20px;}
     #a {transition-timing-function: linear; }
 /* This will allow the image scrolling or parallax scrolling effect occur*/
-.parallax {
-  /* The image used */
-  background-image: url("GOLDEN_GATE_MAARTEN_VAN_DEN_HEUVEL.jpg");
+// .parallax {
+//   /* The image used */
+//   background-image: url("GOLDEN_GATE_MAARTEN_VAN_DEN_HEUVEL.jpg");
 
-  /* Set a specific height */
-  min-height: 600px;
-  min-width: auto;
-  image-orientation: auto;
-background-attachment:fixed;
-background-position: inherit;
-background-repeat:no-repeat;
-background-size: cover;
+//   /* Set a specific height */
+//   min-height: 600px;
+//   min-width: auto;
+//   image-orientation: auto;
+// background-attachment:fixed;
+// background-position: inherit;
+// background-repeat:no-repeat;
+// background-size: cover;
 
-}
+// }
 
 .WOO {  
 
