@@ -33,6 +33,6 @@ import { PharmaciaComponent } from './pharmacia/pharmacia.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule { }

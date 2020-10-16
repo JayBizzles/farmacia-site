@@ -1,0 +1,286 @@
+
+.mySlides {display:none}
+.w3-tag, .fa {cursor:pointer}
+.w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+
+nav ul {
+list-style-type: square;
+list-style: circle; 
+padding: 1;
+margin: 1;
+background: rgb(123, 255, 255);
+border-radius: 10px;
+
+}     
+nav li {
+display: inline-block;
+border:mediumturquoise;
+border-width: 4px 4px 2px 4px;
+margin: 2px 2px 2px 2px;
+}    
+
+#content {
+border: 2px solid;
+}
+#selected {
+padding-bottom: 2px;
+background:mintcream;
+}
+
+body {
+background-color: white;
+}
+
+
+h1 {
+color: rgb(20, 141, 20);
+font-style: initial;
+font-size:75px;
+text-align: center;
+text-decoration: underline; 
+text-align:center;
+background-color: white;
+-webkit-text-stroke: 1px rgb(20, 141, 20);
+padding:auto;
+}
+
+h2{
+color: blue;
+font-style: initial;
+font-size:20px;
+background-color: white;
+padding-left: 250px;
+padding-right:250px;
+padding:auto;
+text-align:center;
+}
+
+h3{
+color: blue;
+font-style: italic;
+font-size:35px;
+background-color: white;
+text-align:center;
+-webkit-text-stroke: 0.2px blue;
+padding:auto;
+}
+
+p {
+color: blue;
+font-style:unset;
+font-size:40px;
+background-color: white;
+font-variant: normal;
+font-stretch: wider;
+padding: auto;
+padding-left: 70px;
+text-align: left;
+text-decoration:blue;
+}
+
+/* Created Border Around Pages Tabs*/
+a:link, a:visited {
+
+color: blue;
+padding: 5px ;
+border-spacing: auto;
+text-align:center;
+text-decoration: none;
+display:inline-table;
+font-style:initial;
+inline-size: 200px;
+font-family: Arial;
+box-shadow: 5px 2px 2px deepskyblue;
+
+}
+/* When Tabs Have Mouse Over It, Will Get Underlined, as well as show a white highlight circle when hovered above  */
+a:hover, a:active{text-decoration:underline ; width: 200px;
+height: auto;
+background: white;
+transition: all 1s;
+border-radius: 20px;}
+#a {transition-timing-function: linear; }
+/* This will allow the image scrolling or parallax scrolling effect occur*/
+
+.WOO {  
+
+/* Set a specific height */
+
+
+padding: auto;
+padding-left: 26%;
+padding-right: auto;
+position: center;
+
+}
+
+img {   max-width: 80%;
+width: auto;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto; }
+
+hr {color:greenyellow;inline-size: auto; min-inline-size: auto;}
+
+
+
+.row {
+display: flex;
+padding-left: 35px;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+flex: auto;
+padding: auto;
+padding-left: auto;
+padding-right: auto;
+position: center;
+
+}
+
+
+@media only screen and (max-width: 700px) {
+.responsive {
+width: 49.99999%;
+margin: 6px 0;
+}
+}
+
+@media only screen and (max-width: 500px) {
+.responsive {
+width: 100%;
+}
+}
+
+
+li {padding-left: 25px;padding-right: 25px; padding:3.5px}
+
+
+
+div.gallery {
+border: 1px solid deepskyblue;
+background-color: white;
+border-radius: 20px;
+}
+
+div.gallery:hover {
+border: 1px solid #777;
+}
+
+div.gallery img {
+width: 100%;
+height: auto;
+text-align: center;
+border-radius: 20px;
+}
+
+div.desc {
+padding: 15px;
+text-align: center;
+}
+
+* {
+box-sizing: border-box;
+}
+
+.responsive {
+padding: 0 6px;
+float: left;
+width: 24.99999%;
+}
+
+
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}
+
+
+
+b:link, b:visited {
+
+color: blue;
+padding-right: 5px ;
+border-spacing: auto;
+text-align:center;
+text-decoration: none;
+display:inline-table;
+font-style:initial;
+inline-size: 200px;
+font-family: Arial;
+box-shadow: 5px 2px 2px deepskyblue;
+
+}
+/* When Tabs Have Mouse Over It, Will Get Underlined, as well as show a white highlight circle when hovered above  */
+b:hover, b:active{text-decoration:underline ; width: -1px; 
+height: auto;
+transition: all 1s;}
+#b {transition-timing-function: linear; }
+
+
+
+
+
+/* Multiple Slideshows Start*/
+    
+/* Multiple Slideshows Start*/
+   
+      /* Multiple Slideshows Start*/
+         
+              /* Multiple Slideshows Start*/
+
+* {box-sizing: border-box}
+.mySlides1, .mySlides2 {display: none}
+
+
+/* Slideshow container */
+.slideshow-container {
+max-width: 1000px;
+position: relative;
+margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+cursor: pointer;
+position: absolute;
+top: 50%;
+width: auto;
+padding: 16px;
+margin-top: -22px;
+color: deepskyblue;
+font-weight: bold;
+font-size: 18px;
+transition: 0.6s ease;
+border-radius: 0 3px 3px 0;
+user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+right: 0;
+border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+background-color: transparent;
+color: deepskyblue;
+}
+
+/* Multiple Slideshows End*/
+/* Multiple Slideshows End*/
+  /* Multiple Slideshows End*/
+      /* Multiple Slideshows End*/
+
+
+      .wrap    { 
+-webkit-flex-wrap: wrap;
+flex-wrap: wrap;
+}  
+.wrap li {
+background: lightskyblue;
+}

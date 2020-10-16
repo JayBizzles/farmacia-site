@@ -16,6 +16,7 @@ import { PerfumesDamasComponent } from './perfumes-damas/perfumes-damas.componen
 import { PharmaciaComponent } from './pharmacia/pharmacia.component';
 
 const routes: Routes = [
+  { path: 'AppComponent', component: AppComponent},
   { path: 'acerca', component: AcercaComponent },
   { path: 'contactenos', component: ContactenosComponent },
   { path: 'fajas-y-dietas', component: FajasYDietasComponent },

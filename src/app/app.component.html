@@ -1,6 +1,5 @@
 
 <!DOCTYPE html>
-<html lang="en">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,15 +23,16 @@
 
     <header >
         <nav>
+            <!--Have to make the links go to the different html pages.-->
             <ul>
-                <li><a href="PHARMCIA.html" style="font-family:verdana;"  >Pagina Inicial</a></li>
-                <li><a href="Acerca.html"style="font-family:verdana;">Acerca</a></li> 
-                <li><a href="Perfumes.html"style="font-family:verdana;" >Perfumes</a></li>     
-                <li><a href="Medicinas.html"style="font-family:verdana;" >Medicinas</a></li>
-                <li><a href="Hierbas.html" style="font-family:verdana;">Hierbas</a></li>
-                <li><a href="Fajas y Dietas.html"style="font-family:verdana;" >Fajas y Dietas</a></li>
-                <li><a href="Miscelanos.html"style="font-family:verdana;" >Incinso y Articulos Religiosos</a></li>
-                <li><a href="Contactenos.html"style="font-family:verdana;" >Contactenos</a></li>       
+                <li><a routerLink="pharmacia"style="font-family:verdana;"  >Pagina Inicial</a></li>
+                <li><a routerLink="acerca"style="font-family:verdana;">Acerca</a></li> 
+                <li><a routerLink="perfumes"style="font-family:verdana;" >Perfumes</a></li>     
+                <li><a routerLink="medicinas"style="font-family:verdana;" >Medicinas</a></li>
+                <li><a routerLink="hierbas" style="font-family:verdana;">Hierbas</a></li>
+                <li><a routerLink="fajas-y-dietas"style="font-family:verdana;" >Fajas y Dietas</a></li>
+                <li><a routerLink="miscelanos"style="font-family:verdana;" >Incinso y Articulos Religiosos</a></li>
+                <li><a routerLink="contactenos"style="font-family:verdana;" >Contactenos</a></li>       
                 </ul>
         </nav>
     </header>  
@@ -74,5 +74,11 @@
         <div class="column">
     <img src="assets/img/flag12.jpg" alt="Product Display" width="71" height="44" style="-ms-grid-row-align: end">
         </div>
-</div>
+    </div>
+
+</body>
+
 <router-outlet></router-outlet>
+
+
+
