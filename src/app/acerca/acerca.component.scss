@@ -73,6 +73,7 @@ body {
     padding-right:250px;
     padding:auto;
     text-align:center;
+    overflow-wrap: break-word;
     }
 
 
@@ -85,11 +86,12 @@ body {
     background-color: transparent;
     font-variant: normal;
     font-stretch: wider;
-  padding: auto;
-  padding-left: 70px;
-  text-align: center;
-  text-decoration:blue;
-  display: inline-block;
+    padding: auto;
+    padding-left: 70px;
+    padding-bottom: 200px;
+    text-align: center;
+    text-decoration:blue;
+    display: inline;
     }
 
 /* Created Border Around Pages Tabs*/
@@ -163,6 +165,11 @@ hr {color:greenyellow;inline-size: auto; min-inline-size: auto;}
   padding-left: auto;
   padding-right: auto;
   position: center;
+}
+.description {
+  // overflow-wrap: break-word;
+  // word-wrap: break-word;
+  // hyphens: auto;
 }
 
 @media screen and (max-width: auto) {

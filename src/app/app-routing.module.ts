@@ -24,8 +24,8 @@ const routes: Routes = [
   { path: 'medicinas', component: MedicinasComponent },
   { path: 'miscelanos', component: MiscelanosComponent },
   { path: 'perfumes', component: PerfumesComponent },
-  { path: 'perfumes-caballeros', component: PerfumesCaballerosComponent },
-  { path: 'perfumes-damas', component: PerfumesDamasComponent },
+  { path: 'perfumes/perfumes-caballeros', component: PerfumesCaballerosComponent },
+  { path: 'perfumes/perfumes-damas', component: PerfumesDamasComponent },
   { path: 'pharmacia', component: PharmaciaComponent },
 ];
 

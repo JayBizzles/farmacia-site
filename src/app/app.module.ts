@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { MaterialModule } from './shared/material.module';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -13,10 +14,18 @@ import { PerfumesComponent } from './perfumes/perfumes.component';
 import { PerfumesCaballerosComponent } from './perfumes-caballeros/perfumes-caballeros.component';
 import { PerfumesDamasComponent } from './perfumes-damas/perfumes-damas.component';
 import { PharmaciaComponent } from './pharmacia/pharmacia.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { FajasYDietasGridComponent } from './fajas-y-dietas-grid/fajas-y-dietas-grid.component';
+import { HierbasGridComponent} from './hierbas-grid/hierbas-grid.component';
+import { MiscelanosGridComponent } from './miscelanos-grid/miscelanos-grid.component';
+import { PerfumesMenGridComponent } from './perfumes-men-grid/perfumes-men-grid.component';
+import { PerfumesWomenGridComponent } from './perfumes-women-grid/perfumes-women-grid.component';
+import {GridListComponent} from './grid-list/grid-list.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    GridListComponent,
     AcercaComponent,
     ContactenosComponent,
     FajasYDietasComponent,
@@ -26,11 +35,18 @@ import { PharmaciaComponent } from './pharmacia/pharmacia.component';
     PerfumesComponent,
     PerfumesCaballerosComponent,
     PerfumesDamasComponent,
-    PharmaciaComponent
+    PharmaciaComponent,
+    FajasYDietasGridComponent,
+    HierbasGridComponent,
+    MiscelanosGridComponent,
+    PerfumesMenGridComponent,
+    PerfumesWomenGridComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MaterialModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent],
