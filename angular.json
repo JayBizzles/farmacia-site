@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "farmacia"
+  "defaultProject": "farmacia",
+  "cli": {
+    "analytics": "0a9575b7-f15c-4c69-aed3-0674ec8cfe4a"
+  }
 }

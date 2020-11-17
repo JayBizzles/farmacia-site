@@ -21,6 +21,8 @@ import { MiscelanosGridComponent } from './miscelanos-grid/miscelanos-grid.compo
 import { PerfumesMenGridComponent } from './perfumes-men-grid/perfumes-men-grid.component';
 import { PerfumesWomenGridComponent } from './perfumes-women-grid/perfumes-women-grid.component';
 import {GridListComponent} from './grid-list/grid-list.component';
+import { MedicineCarouselComponent } from './medicine-carousel/medicine-carousel.component';
+import { MatCarouselModule } from '@ngbmodule/material-carousel';
 
 @NgModule({
   declarations: [
@@ -40,13 +42,15 @@ import {GridListComponent} from './grid-list/grid-list.component';
     HierbasGridComponent,
     MiscelanosGridComponent,
     PerfumesMenGridComponent,
-    PerfumesWomenGridComponent
+    PerfumesWomenGridComponent,
+    MedicineCarouselComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     MaterialModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    MatCarouselModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent],

@@ -3,7 +3,6 @@
 }
 
 .content > mat-card {
-    
     overflow-y: auto;   
 }
 
@@ -11,7 +10,7 @@
     margin-bottom: 30px;
     background-size: 200px;
     width: 300px;
-    height: auto;
+    height: 300px;
     overflow: auto;
     display: flex;
     flex-direction: column;
