@@ -13,13 +13,13 @@ export class AcercaCarouselComponent implements OnInit {
   }
   slides = [
     {
-    "image": '../../assets/img/Religioso/Purisma 4.JPG'
+    "image": '../../assets/img/Religioso/Purisima 4.JPG'
   },
   {
     "image": '../../assets/img/Religioso/Religioso 1.JPG'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 2.jpg'
+    "image": '../../assets/img/Religioso/Religioso 2.JPG'
   },
   {
     "image": '../../assets/img/Religioso/Religioso 6.JPG'
@@ -35,7 +35,7 @@ export class AcercaCarouselComponent implements OnInit {
   },
   {
     "image": '../../assets/img/Religioso/Religioso 10.JPG'
-  },]
+  }]
 
 }
 

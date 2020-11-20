@@ -7,63 +7,62 @@
 }
 body {
     background-color: white;
-    
-    }
+}
 
-    
-    h1 {
-    color: rgb(20, 141, 20);
-    font-style: initial;
-    font-size:75px;
-    text-align: center;
-    text-decoration: underline; 
-    text-align:center;
-    background-color: white;
-    -webkit-text-stroke: 1px rgb(20, 141, 20);
-    padding:auto;
-    }
+h1 {
+  color: rgb(20, 141, 20);
+  font-style: initial;
+  font-size:75px;
+  text-align: center;
+  text-decoration: underline; 
+  text-align:center;
+  background-color: white;
+  -webkit-text-stroke: 1px rgb(20, 141, 20);
+  padding:auto;
+}
 
 
-    h2{
-    color:blue;
-    font-style: initial;
-    font-size:20px;
-    background-color: white;
-    padding-left: 250px;
-    padding-right:250px;
-    padding:auto;
-    text-align:center;
-    }
+h2{
+  color:blue;
+  font-style: initial;
+  font-size:20px;
+  background-color: white;
+  padding-left: 250px;
+  padding-right:250px;
+  padding:auto;
+  text-align:center;
+}
 
-    h3 {
-    color: blue;
-    font-style: initial;
-    font-size:45px;
-    background-color: transparent;
-    padding-left: 250px;
-    padding-right:250px;
-    padding:auto;
-    text-align:center;
-    overflow-wrap: break-word;
-    }
+h3 {
+  color: blue;
+  font-style: initial;
+  font-size:45px;
+  background-color: transparent;
+  padding-left: 250px;
+  padding-right:250px;
+  padding:auto;
+  text-align:center;
+  overflow-wrap: break-word;
+}
 
 
 
 
-    p {
-    color: blue;
-    font-style:unset;
-    font-size:40px;
-    background-color: transparent;
-    font-variant: normal;
-    font-stretch: wider;
-    padding: auto;
-    padding-bottom: 200px;
-    text-align: center;
-    text-decoration:blue;
-    display: inline;
-  
-    }
+p {
+  color: blue;
+  font-style:unset;
+  font-size:40px;
+  background-color: transparent;
+  font-variant: normal;
+  font-stretch: wider;
+  padding: 30%;
+  padding-bottom: 200%;
+  text-align: center;
+  text-decoration:blue;
+  display: inline;
+
+}
+
 
 /* Created Border Around Pages Tabs*/
 a:link, a:visited {
@@ -81,12 +80,17 @@ a:link, a:visited {
 
 }
 /* When Tabs Have Mouse Over It, Will Get Underlined, as well as show a white highlight circle when hovered above  */
-    a:hover, a:active{text-decoration:underline ; width: 200px;
+    a:hover, a:active{
+  text-decoration:underline;
+  width: 200px;
   height: auto;
   background: white;
   transition: all 1s;
-  border-radius: 20px;}
-  #a {transition-timing-function: linear; }
+  border-radius: 20px;
+}
+#a{
+  transition-timing-function: linear;
+}
 
 hr {color:greenyellow;inline-size: auto; min-inline-size: auto;}
 
@@ -94,9 +98,7 @@ hr {color:greenyellow;inline-size: auto; min-inline-size: auto;}
    overflow-wrap: break-word;
    word-wrap: break-word;
    hyphens: auto;
+   padding-bottom: 200%;
 }
 
-@media screen and (max-width: auto) {
-  .column {
-    width: 100%;} 
-}
+
