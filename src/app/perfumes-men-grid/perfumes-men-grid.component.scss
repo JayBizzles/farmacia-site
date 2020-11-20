@@ -1,5 +1,5 @@
 .content{
-    padding: 16px;
+    padding: 6px;
 }
 
 .content > mat-card {
@@ -8,17 +8,11 @@
 }
 
 .example-header-image-med{
-    margin-bottom: 30px;
     background-size: 200px;
     width: 300px;
-    height: auto;
+    height: 600px;
     overflow: auto;
     display: flex;
     flex-direction: column;
 
-}
-
-.mat-elevation-z4 img{
-    width: 100%;
-    height: auto;
 }

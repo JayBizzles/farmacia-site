@@ -11,6 +11,88 @@ export interface Card {
   url: string;
 
 }
+
+const DATA: Card[] = [
+  {
+    title: 'Bvlgari',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Bvlgari 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Calvin Klein',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Calvin Klein 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Carolina Herrera',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Carolina Herrera 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Dolce _ Gabanna',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Dolce _ Gabanna 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Givenchy 1',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Givenchy 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Gucci',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Gucci 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'JLO',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/JLO 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Lancome',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Lancome 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Paris Hilton',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Paris Hilton 1.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Ralph Lauren',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Ralph Lauren 2.JPG",
+    price: '$100'
+  },
+  {
+    title: 'Versace',
+    subtitle: 'perfume',
+    text: 'Descriptions',
+    url: "../../assets/img/perfumes-women/Versace 1.JPG",
+    price: '$100'
+  },
+  
+];
+
 @Component({
   selector: 'app-perfumes-women-grid',
   templateUrl: './perfumes-women-grid.component.html',
@@ -18,90 +100,10 @@ export interface Card {
 })
 export class PerfumesWomenGridComponent implements OnInit {
 
-  data: Card[] = [
-    {
-      title: 'Bvlgari',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Bvlgari 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Calvin Klein',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Calvin Klein 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Carolina Herrera',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Carolina Herrera 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Dolce _ Gabanna',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Dolce _ Gabanna 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Givenchy 1',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Givenchy 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Gucci',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Gucci 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'JLO',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/JLO 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Lancome',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Lancome 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Paris Hilton',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Paris Hilton 1.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Ralph Lauren',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Ralph Lauren 2.JPG",
-      price: '$100'
-    },
-    {
-      title: 'Versace',
-      subtitle: 'perfume',
-      text: 'Descriptions',
-      url: "../../assets/img/perfumes-women/Versace 1.JPG",
-      price: '$100'
-    },
-    
-  ];
-
+  
   @ViewChild(MatPaginator) paginator: MatPaginator;
   obs: Observable<any>;
-  dataSource: MatTableDataSource<Card> = new MatTableDataSource<Card>(this.data);
+  dataSource: MatTableDataSource<Card> = new MatTableDataSource<Card>(DATA);
 
   constructor(private changeDetectorRef: ChangeDetectorRef) {
   }

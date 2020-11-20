@@ -9,7 +9,6 @@ import { ContactenosComponent } from './contactenos/contactenos.component';
 import { FajasYDietasComponent } from './fajas-y-dietas/fajas-y-dietas.component';
 import { HierbasComponent } from './hierbas/hierbas.component';
 import { MedicinasComponent } from './medicinas/medicinas.component';
-import { MiscelanosComponent } from './miscelanos/miscelanos.component';
 import { PerfumesComponent } from './perfumes/perfumes.component';
 import { PerfumesCaballerosComponent } from './perfumes-caballeros/perfumes-caballeros.component';
 import { PerfumesDamasComponent } from './perfumes-damas/perfumes-damas.component';
@@ -22,7 +21,6 @@ const routes: Routes = [
   { path: 'fajas-y-dietas', component: FajasYDietasComponent },
   { path: 'hierbas', component: HierbasComponent },
   { path: 'medicinas', component: MedicinasComponent },
-  { path: 'miscelanos', component: MiscelanosComponent },
   { path: 'perfumes', component: PerfumesComponent },
   { path: 'perfumes/perfumes-caballeros', component: PerfumesCaballerosComponent },
   { path: 'perfumes/perfumes-damas', component: PerfumesDamasComponent },

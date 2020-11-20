@@ -2,14 +2,11 @@
         <div class="content" fxLayout="row wrap" fxLayoutAlign= "start start">
             <div fxFlex="20%" *ngFor="let info of obs | async" fxLayoutGap="16px grid">
                 <div class = "example-header-image-med">
-                    <mat-card class="mat-elevation-z4" >
+                    <mat-card>
                         <mat-card-header>
                             <mat-card-title>{{info.title}}</mat-card-title>
                         </mat-card-header>
                         <img mat-card-image class= "card-img" [src]="info.url"/>
-                        <mat-card-content>
-                            <p>{{info.text}}</p>
-                        </mat-card-content>
                     </mat-card>
                 </div>
             </div>
