@@ -55,12 +55,13 @@ p {
   background-color: transparent;
   font-variant: normal;
   font-stretch: wider;
-  padding: 30%;
-  padding-bottom: 200%;
-  text-align: center;
+  line-height: 1;
+  text-align: left;
   text-decoration:blue;
-  display: inline;
-
+  display: inline-block;
+  word-spacing: 5px;
+  overflow-wrap: break-word;
+  text-indent: 40px;
 }
 
 
