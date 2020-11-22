@@ -16,13 +16,13 @@ export class HierbasCarouselComponent implements OnInit {
     "image": '../../assets/img/Hierbas/Hierbas 1.JPG'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas 2.JPG'
+    "image": '../../assets/img/Hierbas/Hierbas 2.jpg'
   },
   {
     "image": '../../assets/img/Hierbas/Hierbas 3.JPG'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas 4.JPG'
+    "image": '../../assets/img/Hierbas/Hierbas 4.jpg'
   },
   {
     "image": '../../assets/img/Hierbas/Hierbas 5.JPG'
