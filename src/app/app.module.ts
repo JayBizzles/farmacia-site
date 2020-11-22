@@ -25,6 +25,7 @@ import { PharmaciaCarouselComponent } from './pharmacia-carousel/pharmacia-carou
 import { HierbasCarouselComponent } from './hierbas-carousel/hierbas-carousel.component';
 import { PerfumesCarouselComponent } from './perfumes-carousel/perfumes-carousel.component';
 import { AcercaCarouselComponent } from './acerca-carousel/acerca-carousel.component';
+import { NotFoundComponent } from './not-found/not-found.component';
 
 @NgModule({
   declarations: [
@@ -47,7 +48,8 @@ import { AcercaCarouselComponent } from './acerca-carousel/acerca-carousel.compo
     PharmaciaCarouselComponent,
     HierbasCarouselComponent,
     PerfumesCarouselComponent,
-    AcercaCarouselComponent
+    AcercaCarouselComponent,
+    NotFoundComponent
   ],
   imports: [
     BrowserModule,

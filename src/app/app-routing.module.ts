@@ -13,6 +13,7 @@ import { PerfumesComponent } from './perfumes/perfumes.component';
 import { PerfumesCaballerosComponent } from './perfumes-caballeros/perfumes-caballeros.component';
 import { PerfumesDamasComponent } from './perfumes-damas/perfumes-damas.component';
 import { PharmaciaComponent } from './pharmacia/pharmacia.component';
+import { NotFoundComponent } from './not-found/not-found.component';
 
 const routes: Routes = [
   { path: 'AppComponent', component: AppComponent},
@@ -25,6 +26,9 @@ const routes: Routes = [
   { path: 'perfumes/perfumes-caballeros', component: PerfumesCaballerosComponent },
   { path: 'perfumes/perfumes-damas', component: PerfumesDamasComponent },
   { path: 'pharmacia', component: PharmaciaComponent },
+  { path: '', component: PharmaciaComponent },
+    { path: '404', component: NotFoundComponent },
+    { path: '**', redirectTo: '404' }
 ];
 
 @NgModule({
