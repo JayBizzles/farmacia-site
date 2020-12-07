@@ -17,34 +17,34 @@ export class MedicineCarouselComponent implements OnInit {
 
   slides = [
     {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 1.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 1.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 2.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 2.jpg'
   },
   {
     "image": '../../assets/img/Miscellaneous/Miscellaneous 3.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 4.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 4.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 5 .JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 5 .jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 6.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 6.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 7.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 7.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 8.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 8.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 9.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 9.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 10.JPG'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous 10.jpg'
   },]
 
 }

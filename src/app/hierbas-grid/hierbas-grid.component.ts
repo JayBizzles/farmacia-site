@@ -19,189 +19,189 @@ const DATA: Card[] = [
     title: 'Alpiste',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Alpiste .JPG",
+    url: "../../assets/img/Hierbas/Alpiste .jpg",
     price: '$100'
   },
   {
     title: 'Boldo',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Boldo.JPG",
+    url: "../../assets/img/Hierbas/Boldo.jpg",
     price: '$100'
   },
   {
     title: 'Cascara Sagrada',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Cascara Sagrada.JPG",
+    url: "../../assets/img/Hierbas/Cascara Sagrada.jpg",
     price: '$100'
   },
   {
     title: 'Cornsilk',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Cornsilk.JPG",
+    url: "../../assets/img/Hierbas/Cornsilk.jpg",
     price: '$100'
   },
   {
     title: 'Flaxseed',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Flaxseed.JPG",
+    url: "../../assets/img/Hierbas/Flaxseed.jpg",
     price: '$100'
   },
   {
     title: 'Lavdander',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Lavdander.JPG",
+    url: "../../assets/img/Hierbas/Lavdander.jpg",
     price: '$100'
   },
   {
     title: 'MACA',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/MACA.JPG",
+    url: "../../assets/img/Hierbas/MACA.jpg",
     price: '$100'
   },
   {
     title: 'Moringa Powder',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Moringa Powder.JPG",
+    url: "../../assets/img/Hierbas/Moringa Powder.jpg",
     price: '$100'
   },
   {
     title: 'Organic Bitter Melon Fruit',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Bitter Melon Fruit.JPG",
+    url: "../../assets/img/Hierbas/Organic Bitter Melon Fruit.jpg",
     price: '$100'
   },
   {
     title: 'Organic Bitter Melon Powder',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Bitter Melon Powder.JPG",
+    url: "../../assets/img/Hierbas/Organic Bitter Melon Powder.jpg",
     price: '$100'
   },
   {
     title: 'Organic Black Seed',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Black Seed.JPG",
+    url: "../../assets/img/Hierbas/Organic Black Seed.jpg",
     price: '$100'
   },
   {
     title: 'Organic Cardo Mariano',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Cardo Mariano.JPG",
+    url: "../../assets/img/Hierbas/Organic Cardo Mariano.jpg",
     price: '$100'
   },
   {
     title: 'Organic Cinnamon Powder',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic CInnamon Powder.JPG",
+    url: "../../assets/img/Hierbas/Organic CInnamon Powder.jpg",
     price: '$100'
   },
   {
     title: 'Organic Cola de Caballo',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Cola de Caballo.JPG",
+    url: "../../assets/img/Hierbas/Organic Cola de Caballo.jpg",
     price: '$100'
   },
   {
     title: 'Organic Echinacea Herb',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Echinacea Herb.JPG",
+    url: "../../assets/img/Hierbas/Organic Echinacea Herb.jpg",
     price: '$100'
   },
   {
     title: 'Organic Ginger Root',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Ginger Root.JPG",
+    url: "../../assets/img/Hierbas/Organic Ginger Root.jpg",
     price: '$100'
   },
   {
     title: 'Organic Manzanilla',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Manzanilla.JPG",
+    url: "../../assets/img/Hierbas/Organic Manzanilla.jpg",
     price: '$100'
   },
   {
     title: 'Organic Moringa Leaf Powder',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Moringa Leaf Powder.JPG",
+    url: "../../assets/img/Hierbas/Organic Moringa Leaf Powder.jpg",
     price: '$100'
   },
   {
     title: 'Organic Moringa Seed',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Moringa Seed.JPG",
+    url: "../../assets/img/Hierbas/Organic Moringa Seed.jpg",
     price: '$100'
   },
   {
     title: 'Organic Semillas De Cardo Mariano',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Semillas De Cardo Mariano .JPG",
+    url: "../../assets/img/Hierbas/Organic Semillas De Cardo Mariano .jpg",
     price: '$100'
   },
   {
     title: 'Organic Superfood Chia Seed',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Superfood Chia Seed.JPG",
+    url: "../../assets/img/Hierbas/Organic Superfood Chia Seed.jpg",
     price: '$100'
   },
   {
     title: 'Organic Turmeric Root Powder',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Turmeric Root Powder .JPG",
+    url: "../../assets/img/Hierbas/Organic Turmeric Root Powder .jpg",
     price: '$100'
   },
   {
     title: 'Organic Turmeric Root',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Organic Turmeric Root.JPG",
+    url: "../../assets/img/Hierbas/Organic Turmeric Root.jpg",
     price: '$100'
   },
   {
     title: 'Poppy Seed',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Poppy Seed.JPG",
+    url: "../../assets/img/Hierbas/Poppy Seed.jpg",
     price: '$100'
   },
   {
     title: 'Rosemary',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Rosemary.JPG",
+    url: "../../assets/img/Hierbas/Rosemary.jpg",
     price: '$100'
   },
   {
     title: 'Senna Leaf',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Senna Leaf .JPG",
+    url: "../../assets/img/Hierbas/Senna Leaf .jpg",
     price: '$100'
   },
   {
     title: 'Virgin-Organic Black Seed',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Virgin-Organic Black Seed.JPG",
+    url: "../../assets/img/Hierbas/Virgin-Organic Black Seed.jpg",
     price: '$100'
   },
   
