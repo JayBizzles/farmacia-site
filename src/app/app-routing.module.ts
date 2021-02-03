@@ -14,11 +14,12 @@ import { PerfumesCaballerosComponent } from './perfumes-caballeros/perfumes-caba
 import { PerfumesDamasComponent } from './perfumes-damas/perfumes-damas.component';
 import { PharmaciaComponent } from './pharmacia/pharmacia.component';
 import { NotFoundComponent } from './not-found/not-found.component';
+import { ReligiosoComponent } from './religioso/religioso.component';
+import { MiscellaneousComponent } from './miscellaneous/miscellaneous.component';
 
 const routes: Routes = [
   { path: 'AppComponent', component: AppComponent},
   { path: 'acerca', component: AcercaComponent },
-  { path: 'contactenos', component: ContactenosComponent },
   { path: 'fajas-y-dietas', component: FajasYDietasComponent },
   { path: 'hierbas', component: HierbasComponent },
   { path: 'medicinas', component: MedicinasComponent },
@@ -26,9 +27,11 @@ const routes: Routes = [
   { path: 'perfumes/perfumes-caballeros', component: PerfumesCaballerosComponent },
   { path: 'perfumes/perfumes-damas', component: PerfumesDamasComponent },
   { path: 'pharmacia', component: PharmaciaComponent },
+  { path: 'religioso', component: ReligiosoComponent},
+  { path: 'miscellaneous', component: MiscellaneousComponent},
   { path: '', component: PharmaciaComponent },
-    { path: '404', component: NotFoundComponent },
-    { path: '**', redirectTo: '404' }
+  { path: '404', component: NotFoundComponent },
+  { path: '**', redirectTo: '404' }
 ];
 
 @NgModule({

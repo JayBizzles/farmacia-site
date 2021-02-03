@@ -26,6 +26,12 @@ import { HierbasCarouselComponent } from './hierbas-carousel/hierbas-carousel.co
 import { PerfumesCarouselComponent } from './perfumes-carousel/perfumes-carousel.component';
 import { AcercaCarouselComponent } from './acerca-carousel/acerca-carousel.component';
 import { NotFoundComponent } from './not-found/not-found.component';
+import { ReligiosoComponent } from './religioso/religioso.component';
+import { MiscellaneousComponent } from './miscellaneous/miscellaneous.component';
+import { ReligiosoGridComponent } from './religioso-grid/religioso-grid.component';
+import { MiscellaneousGridComponent } from './miscellaneous-grid/miscellaneous-grid.component';
+import { PerfumesMenCarouselComponent } from './perfumes-men-carousel/perfumes-men-carousel.component';
+import { PerfumesWommenCarouselComponent } from './perfumes-women-carousel/perfumes-women-carousel.component';
 
 @NgModule({
   declarations: [
@@ -49,7 +55,13 @@ import { NotFoundComponent } from './not-found/not-found.component';
     HierbasCarouselComponent,
     PerfumesCarouselComponent,
     AcercaCarouselComponent,
-    NotFoundComponent
+    NotFoundComponent,
+    ReligiosoComponent,
+    MiscellaneousComponent,
+    ReligiosoGridComponent,
+    MiscellaneousGridComponent,
+    PerfumesMenCarouselComponent,
+    PerfumesWommenCarouselComponent
   ],
   imports: [
     BrowserModule,
