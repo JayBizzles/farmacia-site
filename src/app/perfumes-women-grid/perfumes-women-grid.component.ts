@@ -35,14 +35,14 @@ const DATA: Card[] = [
     price: '$100'
   },
   {
-    title: 'Dolce _ Gabanna',
+    title: 'Dolce & Gabanna',
     subtitle: 'perfume',
     text: 'Descriptions',
     url: "../../assets/img/perfumes-women/Dolce _ Gabanna 1.JPG",
     price: '$100'
   },
   {
-    title: 'Givenchy 1',
+    title: 'Givenchy',
     subtitle: 'perfume',
     text: 'Descriptions',
     url: "../../assets/img/perfumes-women/Givenchy 1.JPG",
