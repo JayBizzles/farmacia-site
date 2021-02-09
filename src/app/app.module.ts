@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { MaterialModule } from './shared/material.module';
+import { MatCarouselModule } from 'ng-mat-carousel';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -20,7 +21,6 @@ import { PerfumesMenGridComponent } from './perfumes-men-grid/perfumes-men-grid.
 import { PerfumesWomenGridComponent } from './perfumes-women-grid/perfumes-women-grid.component';
 import {GridListComponent} from './grid-list/grid-list.component';
 import { MedicineCarouselComponent } from './medicine-carousel/medicine-carousel.component';
-import { MatCarouselModule } from '@ngbmodule/material-carousel';
 import { PharmaciaCarouselComponent } from './pharmacia-carousel/pharmacia-carousel.component';
 import { HierbasCarouselComponent } from './hierbas-carousel/hierbas-carousel.component';
 import { PerfumesCarouselComponent } from './perfumes-carousel/perfumes-carousel.component';

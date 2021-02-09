@@ -1,118 +1,144 @@
-.mySlides {display:none}
-    .w3-tag, .fa {cursor:pointer}
-    .w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+.mySlides {
+    display: none
+}
 
-    nav ul {
+.w3-tag,
+.fa {
+    cursor: pointer
+}
+
+.w3-tag {
+    height: 15px;
+    width: 15px;
+    padding: 0;
+    margin-top: 6px
+}
+
+nav ul {
     list-style-type: square;
-    list-style: circle; 
+    list-style: circle;
     padding: 1;
     margin: 1;
     background: rgb(123, 255, 255);
     border-radius: 10px;
-    
-}     
+}
+
 nav li {
     display: inline-block;
-    border:mediumturquoise;
+    border: mediumturquoise;
     border-width: 4px 4px 2px 4px;
     margin: 2px 2px 2px 2px;
-}    
-nav li a{
+}
+
+nav li a {
     padding: 100px 100px;
     font: 0.8em arial, helvetica, sans-serif;
-    border:yellow;
+    border: yellow;
     border-width: 10px 4px 10px 4px;
     margin: 4px 4px 4px 4px;
     font-size: large;
     column-span: all;
-    
 }
+
 #content {
     border: 2px solid;
 }
+
 #selected {
     padding-bottom: 2px;
-    background:mintcream;
+    background: mintcream;
 }
 
 body {
     background-color: white;
-    }
+}
 
-    
 h1 {
     color: rgb(20, 141, 20);
     font-style: initial;
-    font-size:75px;
+    font-size: 75px;
     text-align: center;
-    text-decoration: underline; 
-    text-align:center;
+    text-decoration: underline;
+    text-align: center;
     background-color: white;
     -webkit-text-stroke: 1px rgb(20, 141, 20);
-    padding:auto;
-    }
+    padding: auto;
+}
 
-h2{
+h2 {
     color: blue;
     font-style: initial;
-    font-size:20px;
+    font-size: 20px;
     background-color: white;
     padding-left: 250px;
-    padding-right:250px;
-    padding:auto;
-    text-align:center;
-    }
+    padding-right: 250px;
+    padding: auto;
+    text-align: center;
+}
 
-h3{
+h3 {
     color: blue;
     font-style: italic;
-    font-size:35px;
+    font-size: 35px;
     background-color: white;
-    text-align:center;
+    text-align: center;
     -webkit-text-stroke: 0.2px blue;
-    padding:auto;
-    }
+    padding: auto;
+}
 
 p {
-    color: blue;
-    font-style:unset;
-    font-size:40px;
+    color: red;
+    font-style: unset;
+    font-size: 20px;
     background-color: white;
-    font-variant: normal;
+    font-variant: small-caps;
     font-stretch: wider;
-  padding: auto;
-  padding-left: 70px;
-  text-align: center;
-  text-decoration:blue;
-    }
+    padding: auto;
+    padding-left: 70px;
+    text-align: center;
+    text-decoration: red;
+}
+
 
 /* Created Border Around Pages Tabs*/
-a:link, a:visited {
-  
-  color: blue;
-  padding: 5px ;
-  border-spacing: auto;
-  text-align:center;
-  text-decoration: none;
-  display:inline-table;
-  font-style:initial;
-  inline-size: 200px;
-  font-family: Arial;
-  box-shadow: 5px 2px 2px deepskyblue;
 
+a:link,
+a:visited {
+    color: blue;
+    padding: 5px;
+    border-spacing: auto;
+    text-align: center;
+    text-decoration: none;
+    display: inline-table;
+    font-style: initial;
+    inline-size: 200px;
+    font-family: Arial;
+    box-shadow: 5px 2px 2px deepskyblue;
 }
+
+
 /* When Tabs Have Mouse Over It, Will Get Underlined, as well as show a white highlight circle when hovered above  */
-    a:hover, a:active{text-decoration:underline ; width: 200px;
-  height: auto;
-  background: white;
-  transition: all 1s;
-  border-radius: 20px;}
-    #a {transition-timing-function: linear; }
+
+a:hover,
+a:active {
+    text-decoration: underline;
+    width: 200px;
+    height: auto;
+    background: white;
+    transition: all 1s;
+    border-radius: 20px;
+}
+
+#a {
+    transition-timing-function: linear;
+}
+
+
 /* This will allow the image scrolling or parallax scrolling effect occur*/
+
 // .parallax {
 //   /* The image used */
 //   background-image: url("GOLDEN_GATE_MAARTEN_VAN_DEN_HEUVEL.jpg");
-
 //   /* Set a specific height */
 //   min-height: 600px;
 //   min-width: auto;
@@ -121,98 +147,99 @@ a:link, a:visited {
 // background-position: inherit;
 // background-repeat:no-repeat;
 // background-size: cover;
-
 // }
-.WOO {  
-
-/* Set a specific height */
-
-
-  padding: auto;
-  padding-left: 26%;
-  padding-right: auto;
-  position: center;
-
+.WOO {
+    /* Set a specific height */
+    padding: auto;
+    padding-left: 26%;
+    padding-right: auto;
+    position: center;
 }
 
-img {   max-width: 70%;
-  height: auto; }
+img {
+    max-width: 70%;
+    height: auto;
+}
 
-hr {color:greenyellow;inline-size: auto; min-inline-size: auto;}
+hr {
+    color: greenyellow;
+    inline-size: auto;
+    min-inline-size: auto;
+}
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .row {
-  display: flex;
-  padding-left: 35px;
+    display: flex;
+    padding-left: 35px;
 }
+
 
 /* Create three equal columns that sits next to each other */
+
 .column {
-  flex: auto;
-  padding: auto;
-  padding-left: auto;
-  padding-right: auto;
-  position: center;
-  
+    flex: auto;
+    padding: auto;
+    padding-left: auto;
+    padding-right: auto;
+    position: center;
 }
 
-
 @media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
 }
 
 @media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
+    .responsive {
+        width: 100%;
+    }
 }
 
-
-li {padding-left: 25px;padding-right: 25px; padding:3.5px}
-
-
+li {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding: 3.5px
+}
 
 div.gallery {
-  border: 1px solid deepskyblue;
-  background-color: white;
-  border-radius: 20px;
+    border: 1px solid deepskyblue;
+    background-color: white;
+    border-radius: 20px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+    border: 1px solid #777;
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
-  text-align: center;
-  border-radius: 20px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-radius: 20px;
 }
 
 div.desc {
-  padding: 15px;
-  text-align: center;
+    padding: 15px;
+    text-align: center;
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
 }
 
-
 .clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
