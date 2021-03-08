@@ -204,6 +204,48 @@ const DATA: Card[] = [
     url: "../../assets/img/Hierbas/Virgin-Organic Black Seed.jpg",
     price: '$100'
   },
+  {
+    title: '',
+    subtitle: 'herb',
+    text: 'Descriptions',
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 1.jpg",
+    price: '$100'
+  },
+  {
+    title: '',
+    subtitle: 'herb',
+    text: 'Descriptions',
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 2.jpg",
+    price: '$100'
+  },
+  {
+    title: '',
+    subtitle: 'herb',
+    text: 'Descriptions',
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 3.jpg",
+    price: '$100'
+  },
+  {
+    title: '',
+    subtitle: 'herb',
+    text: 'Descriptions',
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 4.jpg",
+    price: '$100'
+  },
+  {
+    title: '',
+    subtitle: 'herb',
+    text: 'Descriptions',
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 5.jpg",
+    price: '$100'
+  },
+  {
+    title: '',
+    subtitle: 'herb',
+    text: 'Descriptions',
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Esenciales 6-min.jpg",
+    price: '$100'
+  },
   
 ];
 

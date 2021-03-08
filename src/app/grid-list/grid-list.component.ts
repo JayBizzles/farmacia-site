@@ -285,6 +285,96 @@ const DATA: Card[] = [
   text: 'Descriptions',
   price: '$100',
   url:"../../assets/img/medicine-pics/Yeast_Fungal Detox.jpg"
+},
+{ title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 1-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 2-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 3-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 4-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 5-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 6-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 7-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 8-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 10-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 11-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 12-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 13-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 14-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 15-min.jpg"
+},
+{title: '',
+  subtitle: 'medicine',
+  text: 'Descriptions',
+  price: '$100',
+  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 16-min.jpg"
 }
 
 ];

@@ -1,1 +1,15 @@
-<p>miscellaneous-grid works!</p>
+    <div class="content" fxLayout="row wrap" fxLayoutAlign= "start" fxLayoutGap="16px grid">
+        <div fxFlex="25%" *ngFor="let info of obs | async" fxLayoutAlign = "end">
+            <div class = "example-header-image-med">
+                <mat-card>
+                    <mat-card-header>
+                        <mat-card-title>{{info.title}}</mat-card-title>
+                    </mat-card-header>
+                    <img mat-card-image class= "card-img" [src]="info.url"/>
+                </mat-card>
+            </div>
+        </div>
+    </div>
+<div>
+    <mat-paginator [length] = "50" [pageSize] = "10" [pageSizeOptions]="[5, 10, 25, 100]"></mat-paginator>
+</div>

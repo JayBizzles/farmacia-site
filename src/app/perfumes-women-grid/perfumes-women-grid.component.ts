@@ -89,7 +89,7 @@ const DATA: Card[] = [
     text: 'Descriptions',
     url: "../../assets/img/perfumes-women/Versace 1.JPG",
     price: '$100'
-  },
+  }
   
 ];
 
@@ -98,7 +98,7 @@ const DATA: Card[] = [
   templateUrl: './perfumes-women-grid.component.html',
   styleUrls: ['./perfumes-women-grid.component.scss']
 })
-export class PerfumesWomenGridComponent implements OnInit {
+export class PerfumesWomenGridComponent implements OnInit, OnDestroy {
 
   
   @ViewChild(MatPaginator) paginator: MatPaginator;
