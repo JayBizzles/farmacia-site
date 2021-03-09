@@ -208,35 +208,35 @@ const DATA: Card[] = [
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 1.jpg",
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 1.jpeg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 2.jpg",
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 2.jpeg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 3.jpg",
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 3.jpeg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 4.jpg",
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 4.jpeg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 5.jpg",
+    url: "../../assets/img/Hierbas/Hierbas, Incienso y Aceites Eseciales 5.jpeg",
     price: '$100'
   },
   {
