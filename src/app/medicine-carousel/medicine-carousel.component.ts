@@ -17,34 +17,34 @@ export class MedicineCarouselComponent implements OnInit {
 
   slides = [
     {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 1.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_1.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 2.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_2.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 3.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_3.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 4.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_4.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 5 .jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_5.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 6.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_6.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 7.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_7.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 8.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_8.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 9.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_9.jpg'
   },
   {
-    "image": '../../assets/img/Miscellaneous/Miscellaneous 10.jpg'
+    "image": '../../assets/img/Miscellaneous/Miscellaneous_10.jpg'
   },]
 
 }

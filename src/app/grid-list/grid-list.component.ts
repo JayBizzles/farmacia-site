@@ -17,7 +17,7 @@ const DATA: Card[] = [
     title: 'Black Cohosh',
     subtitle: 'medicine',
     text: 'Descriptions',
-    url: "../../assets/img/medicine-pics/Black Cohosh.jpg",
+    url: "../../assets/img/medicine-pics/Black_Cohosh.jpg",
     price: '$100'
   },
   {
@@ -32,28 +32,28 @@ const DATA: Card[] = [
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/medicine-pics/Camu Camu .jpg"
+    url:"../../assets/img/medicine-pics/Camu_Camu.jpg"
   },
   {
-    title: 'ChildLife Multi Vitamin _ Mineral',
+    title: 'ChildLife_Multi_Vitamin_Mineral',
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/medicine-pics/ChildLife Multi Vitamin _ Mineral.jpg"
+    url:"../../assets/img/medicine-pics/ChildLife_Multi_Vitamin_Mineral.jpg"
   },
   {
     title: 'CleanStart  ',
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/medicine-pics/CleanStart 1.jpg"
+    url:"../../assets/img/medicine-pics/CleanStart_1.jpg"
   },
   {
     title: 'Echinacea Goldenseal',
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/medicine-pics/Echinacea Goldenseal.jpg"
+    url:"../../assets/img/medicine-pics/Echinacea_Goldenseal.jpg"
   },
   {
     title: 'Echinacea',
@@ -67,14 +67,14 @@ const DATA: Card[] = [
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/medicine-pics/Emulsion de Escocia Sabor a Cereza .jpg"
+    url:"../../assets/img/medicine-pics/Emulsion_de_Escocia Sabor_a_Cereza.jpg"
   },
   {
     title: 'Emulsion de Escocia Sabor a Fresa Banana',
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/medicine-pics/Emulsion de Escocia Sabor a Fresa Banana.jpg"
+    url:"../../assets/img/medicine-pics/Emulsion_de_Escocia_Sabor_a_Fresa_Banana.jpg"
   },
   {title: 'Equolibrium',
   subtitle: 'medicine',
@@ -86,19 +86,19 @@ const DATA: Card[] = [
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Extracto de Malta Con Hemoglobina.jpg"
+  url:"../../assets/img/medicine-pics/Extracto_de_Malta_Con_Hemoglobina.jpg"
 },
 {title: 'FCS II',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/FCS II.jpg"
+  url:"../../assets/img/medicine-pics/FCS_II.jpg"
 },
 {title: 'Female Confort',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Female Confort.jpg"
+  url:"../../assets/img/medicine-pics/Female_Confort.jpg"
 },
 {title: 'Flash-Ease',
   subtitle: 'medicine',
@@ -110,91 +110,91 @@ const DATA: Card[] = [
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Gastro Health .jpg"
+  url:"../../assets/img/medicine-pics/Gastro_Health.jpg"
 },
 {title: 'Geritol Energy Support ',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Geritol Energy Support .jpg"
+  url:"../../assets/img/medicine-pics/Geritol_Energy_Support.jpg"
 },
 {title: 'Geritol Nutrition Support',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Geritol Nutrition Support.jpg"
+  url:"../../assets/img/medicine-pics/Geritol_Nutrition_Support.jpg"
 },
 {title: 'Ginko Biloba Extract',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Ginko Biloba Extract.jpg"
+  url:"../../assets/img/medicine-pics/Ginko_Biloba_Extract.jpg"
 },
 {title: 'Globulo Rojo',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Globulo Rojo.jpg"
+  url:"../../assets/img/medicine-pics/Globulo_Rojo.jpg"
 },
 {title: 'Golden Seal',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Golden Seal.jpg"
+  url:"../../assets/img/medicine-pics/Golden_Seal.jpg"
 },
 {title: 'Immune Stimulator ',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Immune Stimulator .jpg"
+  url:"../../assets/img/medicine-pics/Immune_Stimulator.jpg"
 },
 {title: 'Korean Ginseng',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Korean Ginseng.jpg"
+  url:"../../assets/img/medicine-pics/Korean_Ginseng.jpg"
 },
 {title: 'Lydia Pinkham',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Lyida Pinkham.jpg"
+  url:"../../assets/img/medicine-pics/Lyida_Pinkham.jpg"
 },
 {title: 'Male Response',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Male Response.jpg"
+  url:"../../assets/img/medicine-pics/Male_Response.jpg"
 },
 {title: 'Men_s DHEA-M',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Men_s DHEA-M.jpg"
+  url:"../../assets/img/medicine-pics/Men_s_DHEA-M.jpg"
 },
 {title: 'Men_s X-Action',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Men_s X-Action.jpg"
+  url:"../../assets/img/medicine-pics/Men_s_X-Action.jpg"
 },
 {title: 'Neuro Vital Vitamin B12',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Neuro Vital Vitamin B12.jpg"
+  url:"../../assets/img/medicine-pics/Neuro_Vital_Vitamin B12.jpg"
 },
 {title: 'NeuroBion B-12 Complex',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/NeuroBion B-12 Complex.jpg"
+  url:"../../assets/img/medicine-pics/NeuroBion_B-12_Complex.jpg"
 },
 {title: 'NeuroBion B12 Forte',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/NeuroBion B12 Forte.jpg"
+  url:"../../assets/img/medicine-pics/NeuroBion_B12_Forte.jpg"
 },
 {title: 'NeuroBion',
   subtitle: 'medicine',
@@ -206,7 +206,7 @@ const DATA: Card[] = [
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Neuroferrical B12.jpg"
+  url:"../../assets/img/medicine-pics/Neuroferrical_B12.jpg"
 },
 {title: 'Neurofosfaton',
   subtitle: 'medicine',
@@ -218,7 +218,7 @@ const DATA: Card[] = [
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Pastillas Mc.Coy.jpg"
+  url:"../../assets/img/medicine-pics/Pastillas_Mc.Coy.jpg"
 },
 {title: 'Proactazyme',
   subtitle: 'medicine',
@@ -236,25 +236,25 @@ const DATA: Card[] = [
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Rabano Yodado.jpg"
+  url:"../../assets/img/medicine-pics/Rabano_Yodado.jpg"
 },
 {title: 'S.S.S. B-Vitaminas',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/S.S.S. B-Vitaminas.jpg"
+  url:"../../assets/img/medicine-pics/S.S.S._B-Vitaminas.jpg"
 },
 {title: 'Saw Palmetto',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Saw Palmetto.jpg"
+  url:"../../assets/img/medicine-pics/Saw_Palmetto.jpg"
 },
 {title: 'Sukrol ',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Sukrol .jpg"
+  url:"../../assets/img/medicine-pics/Sukrol.jpg"
 },
 {title: 'Vari-Gone',
   subtitle: 'medicine',
@@ -266,115 +266,115 @@ const DATA: Card[] = [
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Vital Fuerte Large.jpg"
+  url:"../../assets/img/medicine-pics/Vital_Fuerte_Large.jpg"
 },
 {title: 'Vital Fuerte small',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Vital Fuerte small.jpg"
+  url:"../../assets/img/medicine-pics/Vital_Fuerte_small.jpg"
 },
 {title: 'Women_s DHEA-F',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Women_s DHEA-F.jpg"
+  url:"../../assets/img/medicine-pics/Women_s_DHEA-F.jpg"
 },
 {title: 'Yeast_Fungal Detox',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Yeast_Fungal Detox.jpg"
+  url:"../../assets/img/medicine-pics/Yeast_Fungal_Detox.jpg"
 },
 { title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 1-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_1-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 2-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_2-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 3-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_3-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 4-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_4-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 5-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_5-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 6-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_6-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 7-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_7-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 8-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_8-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 10-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_10-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 11-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_11-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 12-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_12-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 13-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_13-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 14-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_14-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 15-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_15-min.jpg"
 },
 {title: '',
   subtitle: 'medicine',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/medicine-pics/Medicina, Salud y Belleza 16-min.jpg"
+  url:"../../assets/img/medicine-pics/Medicina,_Salud_y_Belleza_16-min.jpg"
 }
 
 ];

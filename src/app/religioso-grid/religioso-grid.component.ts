@@ -17,7 +17,7 @@ const DATA: Card[] = [
     title: '',
     subtitle: 'religioso',
     text: 'Descriptions',
-    url: "../../assets/img/Religioso/Purisima 4.jpg",
+    url: "../../assets/img/Religioso/Purisima_4.jpg",
     price: '$100'
   },
   {
@@ -25,55 +25,55 @@ const DATA: Card[] = [
     subtitle: 'religioso',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/Religioso/Religioso 1.jpg"
+    url:"../../assets/img/Religioso/Religioso_1.jpg"
   },
   {
     title: '',
     subtitle: 'religioso',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/Religioso/Religioso 2.jpg"
+    url:"../../assets/img/Religioso/Religioso_2.jpg"
   },
   {
     title: '',
     subtitle: 'religioso',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/Religioso/Religioso 5.jpg"
+    url:"../../assets/img/Religioso/Religioso_5.jpg"
   },
   {
     title: '',
     subtitle: 'religioso',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/Religioso/Religioso 6.jpg"
+    url:"../../assets/img/Religioso/Religioso_6.jpg"
   },
   {
     title: '',
     subtitle: 'religioso',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/Religioso/Religioso 7.jpg"
+    url:"../../assets/img/Religioso/Religioso_7.jpg"
   },
   {
     title: '',
     subtitle: 'religioso',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/Religioso/Religioso 8.jpg"
+    url:"../../assets/img/Religioso/Religioso_8.jpg"
   },
   {
     title: '',
     subtitle: 'religioso',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/Religioso/Religioso 9.jpg"
+    url:"../../assets/img/Religioso/Religioso_9.jpg"
   },
   {title: '',
   subtitle: 'religioso',
   text: 'Descriptions',
   price: '$100',
-  url:"../../assets/img/Religioso/Religioso 10.jpg"
+  url:"../../assets/img/Religioso/Religioso_10.jpg"
 }
 
 ];

@@ -13,28 +13,28 @@ export class AcercaCarouselComponent implements OnInit {
   }
   slides = [
     {
-    "image": '../../assets/img/Religioso/Purisima 4.jpg'
+    "image": '../../assets/img/Religioso/Purisima_4.jpg'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 1.jpg'
+    "image": '../../assets/img/Religioso/Religioso_1.jpg'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 2.jpg'
+    "image": '../../assets/img/Religioso/Religioso_2.jpg'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 6.jpg'
+    "image": '../../assets/img/Religioso/Religioso_6.jpg'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 5.jpg'
+    "image": '../../assets/img/Religioso/Religioso_5.jpg'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 8.jpg'
+    "image": '../../assets/img/Religioso/Religioso_8.jpg'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 9.jpg'
+    "image": '../../assets/img/Religioso/Religioso_9.jpg'
   },
   {
-    "image": '../../assets/img/Religioso/Religioso 10.jpg'
+    "image": '../../assets/img/Religioso/Religioso_10.jpg'
   }]
 
 }

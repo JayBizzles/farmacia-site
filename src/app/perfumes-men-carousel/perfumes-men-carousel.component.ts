@@ -13,16 +13,16 @@ export class PerfumesMenCarouselComponent implements OnInit {
   }
   slides = [
     {
-      "image": '../../assets/img/perfumes-men/Men Perfumes 1.jpg'
+      "image": '../../assets/img/perfumes-men/Men_Perfumes_1.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-men/Men Perfumes 2.jpg'
+      "image": '../../assets/img/perfumes-men/Men_Perfumes_2.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-men/Men Perfumes 3.jpg'
+      "image": '../../assets/img/perfumes-men/Men_Perfumes_3.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-men/Men Perfumes 5.jpg'
+      "image": '../../assets/img/perfumes-men/Men_Perfumes_5.jpg'
     }
   ]
 

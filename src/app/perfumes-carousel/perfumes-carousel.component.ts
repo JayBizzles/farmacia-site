@@ -13,10 +13,10 @@ export class PerfumesCarouselComponent implements OnInit {
   }
   slides = [
     {
-    "image": '../../assets/img/perfumes-men/All Men .jpg'
+    "image": '../../assets/img/perfumes-men/All_Men.jpg'
   },
   {
-    "image": '../../assets/img/perfumes-women/All Women.JPG'
+    "image": '../../assets/img/perfumes-women/All_Women.jpg'
   },
  ]
 }

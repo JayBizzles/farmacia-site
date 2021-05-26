@@ -13,22 +13,22 @@ export class HierbasCarouselComponent implements OnInit {
   }
   slides = [
     {
-    "image": '../../assets/img/Hierbas/Hierbas 1.jpg'
+    "image": '../../assets/img/Hierbas/Hierbas_1.jpg'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas 2.jpg'
+    "image": '../../assets/img/Hierbas/Hierbas+2.jpg'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas 3.jpg'
+    "image": '../../assets/img/Hierbas/Hierbas_3.jpg'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas 4.jpg'
+    "image": '../../assets/img/Hierbas/Hierbas_4.jpg'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas 5.jpg'
+    "image": '../../assets/img/Hierbas/Hierbas_5.jpg'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas 6.jpg'
+    "image": '../../assets/img/Hierbas/Hierbas_6.jpg'
   },
 ]
 }

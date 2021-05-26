@@ -17,77 +17,77 @@ const DATA: Card[] = [
     title: 'Bvlgari',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Bvlgari 1.JPG",
+    url: "../../assets/img/perfumes-women/Bvlgari_1.jpg",
     price: '$100'
   },
   {
     title: 'Calvin Klein',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Calvin Klein 1.JPG",
+    url: "../../assets/img/perfumes-women/Calvin_Klein_1.jpg",
     price: '$100'
   },
   {
     title: 'Carolina Herrera',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Carolina Herrera 1.JPG",
+    url: "../../assets/img/perfumes-women/Carolina_Herrera_1.jpg",
     price: '$100'
   },
   {
     title: 'Dolce & Gabanna',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Dolce _ Gabanna 1.JPG",
+    url: "../../assets/img/perfumes-women/Dolce_Gabanna 1.jpg",
     price: '$100'
   },
   {
     title: 'Givenchy',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Givenchy 1.JPG",
+    url: "../../assets/img/perfumes-women/Givenchy_1.jpg",
     price: '$100'
   },
   {
     title: 'Gucci',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Gucci 1.JPG",
+    url: "../../assets/img/perfumes-women/Gucci_1.jpg",
     price: '$100'
   },
   {
     title: 'JLO',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/JLO 1.JPG",
+    url: "../../assets/img/perfumes-women/JLO_1.jpg",
     price: '$100'
   },
   {
     title: 'Lancome',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Lancome 1.JPG",
+    url: "../../assets/img/perfumes-women/Lancome_1.jpg",
     price: '$100'
   },
   {
     title: 'Paris Hilton',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Paris Hilton 1.JPG",
+    url: "../../assets/img/perfumes-women/Paris_Hilton_1.jpg",
     price: '$100'
   },
   {
     title: 'Ralph Lauren',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Ralph Lauren 2.jpg",
+    url: "../../assets/img/perfumes-women/Ralph_Lauren_2.jpg",
     price: '$100'
   },
   {
     title: 'Versace',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Versace 1.jpg",
+    url: "../../assets/img/perfumes-women/Versace_1.jpg",
     price: '$100'
   }
   

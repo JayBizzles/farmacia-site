@@ -13,25 +13,25 @@ export class PerfumesWommenCarouselComponent implements OnInit {
   }
   slides = [
     {
-      "image": '../../assets/img/perfumes-women/Women 1.jpg'
+      "image": '../../assets/img/perfumes-women/Women_1.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-women/Women 2.jpg'
+      "image": '../../assets/img/perfumes-women/Women_2.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-women/Women 3.jpg'
+      "image": '../../assets/img/perfumes-women/Women_3.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-women/Women 4.jpg'
+      "image": '../../assets/img/perfumes-women/Women_4.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-women/Women 5.jpg'
+      "image": '../../assets/img/perfumes-women/Women_5.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-women/Women 6.jpg'
+      "image": '../../assets/img/perfumes-women/Women_6.jpg'
     },
     {
-      "image": '../../assets/img/perfumes-women/Women 7.jpg'
+      "image": '../../assets/img/perfumes-women/Women_7.jpg'
     },
   ]
 }

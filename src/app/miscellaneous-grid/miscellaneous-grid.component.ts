@@ -88,35 +88,35 @@ const DATA: Card[] = [
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Miscellaneous/Miscellaneous 1-min.jpg",
+    url: "../../assets/img/Miscellaneous/Miscellaneous_1-min.jpg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Miscellaneous/Miscellaneous 2-min.jpg",
+    url: "../../assets/img/Miscellaneous/Miscellaneous_2-min.jpg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Miscellaneous/Miscellaneous 3-min.jpg",
+    url: "../../assets/img/Miscellaneous/Miscellaneous_3-min.jpg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Miscellaneous/Miscellaneous 4-min.jpg",
+    url: "../../assets/img/Miscellaneous/Miscellaneous_4-min.jpg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Miscellaneous/Miscellaneous 5-min.jpg",
+    url: "../../assets/img/Miscellaneous/Miscellaneous_5-min.jpg",
     price: '$100'
   }
   
