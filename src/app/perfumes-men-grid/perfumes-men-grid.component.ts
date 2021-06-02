@@ -16,7 +16,7 @@ const DATA: Card[] = [
     title: '4711',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-men/4711_(1).jpg",
+    url: "../../assets/img/perfumes-men/4711_1.jpg",
     price: '$100'
   },
   {

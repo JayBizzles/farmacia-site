@@ -42,7 +42,7 @@ const DATA: Card[] = [
     url:"../../assets/img/medicine-pics/ChildLife_Multi_Vitamin_Mineral.jpg"
   },
   {
-    title: 'CleanStart  ',
+    title: 'CleanStart',
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
@@ -67,7 +67,7 @@ const DATA: Card[] = [
     subtitle: 'medicine',
     text: 'Descriptions',
     price: '$100',
-    url:"../../assets/img/medicine-pics/Emulsion_de_Escocia Sabor_a_Cereza.jpg"
+    url:"../../assets/img/medicine-pics/Emulsion_de_Escocia_Sabor_a_Cereza.jpg"
   },
   {
     title: 'Emulsion de Escocia Sabor a Fresa Banana',

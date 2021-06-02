@@ -14,13 +14,13 @@ export class PharmaciaCarouselComponent implements OnInit {
   }
   slides = [
     {
-    "image": '../../assets/img/Farmacia Intro/Farmacia_1.jpg'
+    "image": '../../assets/img/Farmacia-Intro/Farmacia_1.jpg'
   },
   {
-    "image": '../../assets/img/Farmacia Intro/Farmacia_2.jpg'
+    "image": '../../assets/img/Farmacia-Intro/Farmacia_2.jpg'
   },
   {
-    "image": '../../assets/img/Farmacia Intro/Farmacia_Inside.jpg'
+    "image": '../../assets/img/Farmacia-Intro/Farmacia_Inside.jpg'
   }
   ]
 }

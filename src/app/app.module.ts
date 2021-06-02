@@ -32,6 +32,8 @@ import { ReligiosoGridComponent } from './religioso-grid/religioso-grid.componen
 import { MiscellaneousGridComponent } from './miscellaneous-grid/miscellaneous-grid.component';
 import { PerfumesMenCarouselComponent } from './perfumes-men-carousel/perfumes-men-carousel.component';
 import { PerfumesWommenCarouselComponent } from './perfumes-women-carousel/perfumes-women-carousel.component';
+import {LazyImgDirective} from './lazy-img.directive'
+
 
 @NgModule({
   declarations: [
@@ -61,7 +63,8 @@ import { PerfumesWommenCarouselComponent } from './perfumes-women-carousel/perfu
     ReligiosoGridComponent,
     MiscellaneousGridComponent,
     PerfumesMenCarouselComponent,
-    PerfumesWommenCarouselComponent
+    PerfumesWommenCarouselComponent,
+    LazyImgDirective
   ],
   imports: [
     BrowserModule,

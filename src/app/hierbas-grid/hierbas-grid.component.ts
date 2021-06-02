@@ -208,45 +208,16 @@ const DATA: Card[] = [
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas,_Incienso_y_Aceites_Eseciales_1.jpg",
+    url: "../../assets/img/Hierbas/Hierbas_Incienso_y_Aceites_Eseciales_2.jpg",
     price: '$100'
   },
   {
     title: '',
     subtitle: 'herb',
     text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas,_Incienso_y_Aceites_Eseciales_2.jpg",
+    url: "../../assets/img/Hierbas/Hierbas_Incienso_y_Aceites_Eseciales_4.jpg",
     price: '$100'
-  },
-  {
-    title: '',
-    subtitle: 'herb',
-    text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas,_Incienso_y_Aceites_Eseciales_3.jpg",
-    price: '$100'
-  },
-  {
-    title: '',
-    subtitle: 'herb',
-    text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas,_Incienso_y_Aceites_Eseciales_4.jpg",
-    price: '$100'
-  },
-  {
-    title: '',
-    subtitle: 'herb',
-    text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas,_Incienso_y_Aceites_Eseciales_5.jpg",
-    price: '$100'
-  },
-  {
-    title: '',
-    subtitle: 'herb',
-    text: 'Descriptions',
-    url: "../../assets/img/Hierbas/Hierbas,_Incienso_y_Aceites_Esenciales_6-min.jpg",
-    price: '$100'
-  },
-  
+  }
 ];
 
 @Component({

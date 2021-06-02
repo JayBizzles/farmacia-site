@@ -38,7 +38,7 @@ const DATA: Card[] = [
     title: 'Dolce & Gabanna',
     subtitle: 'perfume',
     text: 'Descriptions',
-    url: "../../assets/img/perfumes-women/Dolce_Gabanna 1.jpg",
+    url: "../../assets/img/perfumes-women/Dolce_Gabanna_1.jpg",
     price: '$100'
   },
   {

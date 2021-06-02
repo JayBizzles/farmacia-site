@@ -16,19 +16,10 @@ export class HierbasCarouselComponent implements OnInit {
     "image": '../../assets/img/Hierbas/Hierbas_1.jpg'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas+2.jpg'
+    "image": '../../assets/img/Hierbas/Hierbas_Incienso_y_Aceites_Eseciales_2.jpg'
   },
   {
-    "image": '../../assets/img/Hierbas/Hierbas_3.jpg'
-  },
-  {
-    "image": '../../assets/img/Hierbas/Hierbas_4.jpg'
-  },
-  {
-    "image": '../../assets/img/Hierbas/Hierbas_5.jpg'
-  },
-  {
-    "image": '../../assets/img/Hierbas/Hierbas_6.jpg'
-  },
+    "image": '../../assets/img/Hierbas/Hierbas_Incienso_y_Aceites_Eseciales_4.jpg'
+  }
 ]
 }
